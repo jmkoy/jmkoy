@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Pra me conheçer mais me segue nas redes abaixo!
  
 <div> 
   <a href="https://www.instagram.com/joao.soareess?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
